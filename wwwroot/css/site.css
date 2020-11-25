@@ -1,0 +1,124 @@
+﻿a.navbar-brand {
+    white-space: normal;
+    position: sticky;
+    text-align: center;
+    word-break: break-all;
+}
+
+
+.border-top {
+    border-top: 1px solid #e5e5e5;
+}
+
+.border-bottom {
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow {
+    box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy {
+    font-size: 1rem;
+    line-height: inherit;
+}
+
+
+html {
+    margin-top: -1.5%;
+    margin-bottom: -1%;
+    min-height: 100%;
+    overflow-x: hidden;
+}
+
+body {
+
+    background-color: #191919;
+}
+
+p {
+    color: aliceblue;
+    font-size: 120%;
+    font-family: 'Crimson Text';
+    margin: 0 14% 0 6%;
+}
+
+.header {
+    text-align: left;
+    font-family: 'Crimson Text', Times, serif;
+    color: white;
+    margin: 0 -1% -1% -3%;
+    padding: 0 0 12% 0;
+    background-image: url(bar.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.h1 {
+    font-family: 'Jacques Francois Shadow', cursive;
+    color: white;
+}
+
+.ul {
+    list-style-type: none;
+    padding: 0;
+    overflow: hidden;
+    background-color: #6699ff;
+}
+
+
+h1 {
+    font-family: 'Crimson Text', cursive;
+    color: white;
+}
+
+nav {
+    background-color: black;
+    font-family: 'Crimson Text';
+    display: flex;
+    flex-direction: row;
+    position: sticky;
+    min-width: 4%;
+    margin: 0 -1% 0 -1%;
+    padding: 0 5% 0 5%;
+}
+
+    nav > div {
+        color: #ee1960;
+        margin: 0 7% 0 7%;
+        position: sticky;
+        padding: 2% 0.5% 2% 0.5%;
+        font-size: 140%;
+        text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+    }
+
+a {
+    opacity: 1;
+    color: aliceblue;
+    text-decoration: none;
+    transition: all 300ms ease;
+}
+
+    a:hover {
+        opacity: 0.6;
+        transition: opacity .2s ease-out;
+        -moz-transition: opacity .2s ease-out;
+        -webkit-transition: opacity .2s ease-out;
+        -o-transition: opacity .2s ease-out;
+    }
+
+footer {
+    background-color: black;
+    font-family: 'Crimson Text';
+    display: flex;
+    flex-direction: row;
+    margin: 5% -1% -1% -1%;
+    color: white;
+    padding: 0 5% 3% 5%;
+}
+
+    footer > div {
+        margin: 0 7% 0 7%;
+        text-shadow: 2px 4px 3px rgba(0,0,0,0.3
+    }

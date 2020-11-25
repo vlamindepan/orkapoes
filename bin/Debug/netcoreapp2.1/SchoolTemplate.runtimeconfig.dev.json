@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\lyor\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\lyor\\.nuget\\packages"
+    ]
+  }
+}

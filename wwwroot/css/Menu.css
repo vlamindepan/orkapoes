@@ -1,0 +1,11 @@
+﻿@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+
+html {
+    font-family: 'Montserrat', Arial, sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+
+p {
+    margin-top: 5%;
+}
